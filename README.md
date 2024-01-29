@@ -1,6 +1,6 @@
 # DarkSoulsCombatSystem
 
-### Project currently in development
+### [PROJECT STILL UNDER DEVELOPMENT]
 
 ### Introduction:
 Dark Souls Combat System is a short showcase project consisting of a complete combat system based on Dark Souls combat. This project was developed with the aim of showcasing my knowledge in specific areas and features of Unreal Engine 5.
