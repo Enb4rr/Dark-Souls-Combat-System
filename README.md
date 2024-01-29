@@ -13,3 +13,6 @@ Unreal Engine 5, 3D, Dark Souls, RPG, Combat.
 
 ### Core:
 The main objective of this project was to apply advance knowledge and all available tools in Unreal Engine 5 in order to develop a basic combat system based in the combat present in the Dark Souls franchise.
+
+### Weapon and equipment systems
+![](https://github.com/Enb4rr/Dark-Souls-Combat-System/blob/main/Gifs/WeaponsAndEquipment.gif)
